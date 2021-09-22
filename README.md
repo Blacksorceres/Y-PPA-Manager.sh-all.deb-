@@ -1,4 +1,4 @@
-# Y-PPA-Manager.sh-all.deb-
+# Y-PPA-Manager-all_deb.sh
 Yppamanager- all.deb empaquetado instalable para gui yppa ...gestor de ppa de ubuntu sobre debian y compatibles.
 Este es Yppa manager interfaz grafica de administrador de ppa de ubuntu... instalable en distros compatibles.
 
